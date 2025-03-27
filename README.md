@@ -1,5 +1,5 @@
 # 💫 About Me:
-import burger<br>' ' ' <br>Hey there, I’m Akash!!—an AI and full-stack developer passionate about building intelligent systems that work seamlessly in real time. From machine learning models to cloud-backed applications, I focus on creating efficient, high-performance solutions that blend innovation with practicality. Always exploring new tech, refining my skills, and pushing boundaries—one project at a time. I am currently open for joint ventures and projects, feel free to contact me!!!<br><br>' ' '<br>print("French Fries are vital 🍟")
+import burger<br>' ' ' <br>Hey there, I’m Akash!!—an AI and full-stack developer passionate about building intelligent systems that work seamlessly in real time. From machine learning models to cloud-backed applications, I focus on creating efficient, high-performance solutions that blend innovation with practicality. Always exploring new tech, refining my skills, and pushing boundaries—one project at a time. I am currently open for joint ventures and projects, feel free to contact me!!!<br><br>' ' '<br>print("French Fries are necessary.")
 
 
 ## 🌐 Socials:
