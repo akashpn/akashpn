@@ -81,7 +81,6 @@
   <img height="200" src="https://media1.tenor.com/m/4vJcB5u3L2oAAAAC/neko-atsume-cat.gif"  />
 </div>
 
-###the-badge&logo=godot-engine)
 # Stats
 ![](https://github-readme-stats.vercel.app/api?username=akashpn&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=akashpn&theme=date_night&hide_border=false)<br/>
