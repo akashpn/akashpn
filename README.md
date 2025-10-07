@@ -69,7 +69,7 @@
 
 ###
 
-<p align="left">Currently expanding on Rust, TypeScript and Kubernetes</p>
+<p align="left">Currently expanding on Java, TypeScript and Kubernetes</p>
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/4vJcB5u3L2oAAAAC/neko-atsume-cat.gif"  />
