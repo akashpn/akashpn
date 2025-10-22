@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">import burger<br>' ' '<br>Hey there, I’m Akash!!—an AI and software developer enthralled by building intelligent systems that work seamlessly in real time. From machine learning models to cloud-backed applications, I focus on creating efficient, high-performance solutions that blend innovation with practicality. Always exploring new tech, refining my skills, and pushing boundaries—one project at a time. I am currently open for joint ventures and projects, feel free to contact me!!!<br><br>' ' '<br>print("French Fries are necessary.")</p>
+<p align="left">import burger<br>' ' '<br>Hey there, I’m Akash!!  
+I build intelligent systems that think fast and work beautifully. From real-time AI models to cloud-powered apps, I love turning ambitious ideas into things that actually run and run well.  
+Always learning, always experimenting, always hungry (for code and fries).  
+If you’re into creative projects, AI experiments, or just good tech conversations, stick around — or better yet, reach out. Let’s build something awesome together<br><br>' ' '<br>print("French fries and good code: both essential.")</p>
 
 ###
 
