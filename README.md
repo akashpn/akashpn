@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">import burger<br>' ' '<br>Hey there, I’m Akash!!—an AI and (ongoing)full-stack developer enthralled by building intelligent systems that work seamlessly in real time. From machine learning models to cloud-backed applications, I focus on creating efficient, high-performance solutions that blend innovation with practicality. Always exploring new tech, refining my skills, and pushing boundaries—one project at a time. I am currently open for joint ventures and projects, feel free to contact me!!!<br><br>' ' '<br>print("French Fries are necessary.")</p>
+<p align="left">import burger<br>' ' '<br>Hey there, I’m Akash!!—an AI and software developer enthralled by building intelligent systems that work seamlessly in real time. From machine learning models to cloud-backed applications, I focus on creating efficient, high-performance solutions that blend innovation with practicality. Always exploring new tech, refining my skills, and pushing boundaries—one project at a time. I am currently open for joint ventures and projects, feel free to contact me!!!<br><br>' ' '<br>print("French Fries are necessary.")</p>
 
 ###
 
