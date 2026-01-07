@@ -57,14 +57,12 @@ I build things—apps that scale, AI that thinks, and occasionally something tha
     alt="intro gif"
   />
 </div>
-*Because the stack is never really "done"*
+ ### Because the stack is never really "done"
 
 ![Full Stack](https://img.shields.io/badge/Full_Stack-Deepening-blueviolet?style=plastic)
 ![Java](https://img.shields.io/badge/Java-In_Progress-%23ED8B00?style=plastic&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Leveling_Up-%23007ACC?style=plastic&logo=typescript&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=akashpn&icon=0&color=0)](https://visitcount.itsvg.in)
-<p align="left">
 I like meeting people who are excited about things.
 If that's you — say hi. Let’s see where it goes.
 </p>
