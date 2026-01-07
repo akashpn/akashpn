@@ -51,9 +51,12 @@ I build things—apps that scale, AI that thinks, and occasionally something tha
 ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B)
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRlYmswZTNwbnBqMHF2NW45OXAybDNhcDJ2NHljYnFubHl4ejlpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jPhYsq5BOiRq6lrzW0/giphy.gif" width="400" />
+  <img
+    src="https://github.com/akashpn/akashpn.github.io/releases/download/hhawk/FromKlickPinCFPinsbyyou_--ezgif.com-optimize.gif"
+    width="420"
+    alt="intro gif"
+  />
 </div>
-
 
 
 [![](https://visitcount.itsvg.in/api?id=akashpn&icon=0&color=0)](https://visitcount.itsvg.in)
