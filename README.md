@@ -51,8 +51,8 @@ I build things—apps that scale, AI that thinks, and occasionally something tha
 ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B)
 
 <div align="center">
-  <video autoplay loop muted playsinline width="200">
-    <source src="assets/07ee-45b9-466f-a676-06919592eff2.mp4" type="video/mp4" />
+  <video autoplay loop muted playsinline width="400">
+    <source src="https://files.catbox.moe/mp1htw.mp4" type="video/mp4">
   </video>
 </div>
 
