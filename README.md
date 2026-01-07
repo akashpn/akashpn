@@ -51,10 +51,9 @@ I build things—apps that scale, AI that thinks, and occasionally something tha
 ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B)
 
 <div align="center">
-  <video autoplay loop muted playsinline width="400">
-    <source src="https://files.catbox.moe/mp1htw.mp4" type="video/mp4">
-  </video>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExampvc2JoN3RuNTk0ZHo4Z2tqZDJsN2M0MWRwajk0emZhZGtncHU0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jPhYsq5BOiRq6lrzW0/giphy.gif" width="400" />
 </div>
+
 
 [![](https://visitcount.itsvg.in/api?id=akashpn&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left">
