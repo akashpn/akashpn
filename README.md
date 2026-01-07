@@ -59,6 +59,7 @@ I build things—apps that scale, AI that thinks, and occasionally something tha
 </div>
 
 Currently chasing . . .
+
 ![Full Stack](https://img.shields.io/badge/Full_Stack-Deepening-blueviolet?style=plastic)
 ![Java](https://img.shields.io/badge/Java-In_Progress-%23ED8B00?style=plastic&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Leveling_Up-%23007ACC?style=plastic&logo=typescript&logoColor=white)
