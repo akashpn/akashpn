@@ -50,8 +50,12 @@ I build things—apps that scale, AI that thinks, and occasionally something tha
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B)
 
+<div align="center">
+  <video autoplay loop muted playsinline width="200">
+    <source src="assets/07ee-45b9-466f-a676-06919592eff2.mp4" type="video/mp4" />
+  </video>
+</div>
 
----
 [![](https://visitcount.itsvg.in/api?id=akashpn&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left">
 I like meeting people who are excited about things.
