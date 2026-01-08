@@ -1,5 +1,5 @@
 # If you're here, something worked. Hi. I'm Akash.
-I build things—apps that scale, AI that thinks, and occasionally something that surprises even me when it works. <br>I like clean code but I've written plenty of messy drafts to get there. <br>I like ideas that probably shouldn't work until they do. <br>Still learning. Still breaking things. Still Googling stuff I've definitely Googled before.Still showing up anyway. <br>Away from code, you'll find me thinking about cars. Something about speed, sound, and things built with intention.
+I build things—apps that scale, AI that thinks, and occasionally something that surprises even me when it works. <br>I like clean code but I've written plenty of messy drafts to get there. <br>I like ideas that probably shouldn't work until they do. <br>Still learning. Still breaking things. Still Googling stuff I've definitely Googled before. Still showing up anyway. <br>Away from code, you'll find me thinking about cars. Something about speed, sound, and things built with intention.
 
 
 # My ever-expanding tech stack!
