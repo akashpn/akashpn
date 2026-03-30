@@ -65,7 +65,7 @@ Currently chasing . . .
 ![TypeScript](https://img.shields.io/badge/TypeScript-Leveling_Up-%23007ACC?style=plastic&logo=typescript&logoColor=white)
 
 I like meeting people who are excited about things.
-If that's you — say hi. Let’s see where it goes.
+If that's you - say hi. Let’s see where it goes.
 </p>
 
 <p align="left">
@@ -73,7 +73,7 @@ If that's you — say hi. Let’s see where it goes.
 <a href="https://medium.com/@akash.hh" target="_blank">Medium</a> — longer thoughts, fewer commits
 </p>
 
-  ## Help me keep the engine running—one tea at a time!
+  ## Help me keep the engine running - one tea at a time!
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ruckalon) 
 
   
