@@ -69,12 +69,11 @@ If that's you - say hi. Let’s see where it goes.
 </p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/akash-pn/" target="_blank">LinkedIn</a> — professional, mostly<br>
-<a href="https://medium.com/@akash.hh" target="_blank">Medium</a> — longer thoughts, fewer commits
+<a href="https://www.linkedin.com/in/akash-pn/" target="_blank">LinkedIn</a> - professional, mostly<br>
+<a href="https://medium.com/@akash.hh" target="_blank">Medium</a> - longer thoughts, fewer commits
 </p>
 
   ## Help me keep the engine running - one tea at a time!
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ruckalon) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
